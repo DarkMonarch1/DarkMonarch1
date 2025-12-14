@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DarkMonarch1
 - 👀 I’m interested in Tech and open to new things
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on any platform
+- 🌱💞️ I’m looking to collaborate on any platform
 - 📫 Reach me on fb:www.facebook.com/qDarkMonarchq/ Discord:darkmonarch
 
 <!---
